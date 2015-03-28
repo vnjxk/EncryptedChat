@@ -1,0 +1,1 @@
+D:\c#\EncryptedChat\EncryptedChat\bin\Debug\EncryptedChat.exe.config
